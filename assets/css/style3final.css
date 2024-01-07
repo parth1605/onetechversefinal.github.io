@@ -359,7 +359,9 @@
 }
 
 .container3 {
-    width: 100%
+    width: 100%;
+    position:fixed;
+    background-color: black;
 }
 
 .p-container3 {
