@@ -1068,7 +1068,9 @@ svg {
 
 @media (min-width: 1440px) {
     .container3 {
-        max-width:1440px
+        max-width:1440px;
+        position: inherit;
+        background-color: black;
     }
 }
 
